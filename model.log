@@ -1,0 +1,20 @@
+2023-11-23 01:39:17,158 - Model Logger - DEBUG - This message will go to the log file
+2023-11-23 01:39:17,158 - Model Logger - INFO - This message will go to the log file
+2023-11-23 01:39:17,158 - Model Logger - WARNING - This message will go to the log file and console
+2023-11-23 01:39:17,159 - Model Logger - ERROR - This message will go to the log file and console
+2023-11-23 01:39:17,160 - Model Logger - CRITICAL - This message will go to the log file and console
+2023-11-23 01:42:06,444 - Model Logger - DEBUG - This message will go to the log file
+2023-11-23 01:42:06,444 - Model Logger - DEBUG - This message will go to the log file
+2023-11-23 01:42:06,444 - Model Logger - INFO - This message will go to the log file
+2023-11-23 01:42:06,444 - Model Logger - INFO - This message will go to the log file
+2023-11-23 01:42:06,454 - Model Logger - WARNING - This message will go to the log file and console
+2023-11-23 01:42:06,454 - Model Logger - WARNING - This message will go to the log file and console
+2023-11-23 01:42:06,455 - Model Logger - ERROR - This message will go to the log file and console
+2023-11-23 01:42:06,455 - Model Logger - ERROR - This message will go to the log file and console
+2023-11-23 01:42:06,458 - Model Logger - CRITICAL - This message will go to the log file and console
+2023-11-23 01:42:06,458 - Model Logger - CRITICAL - This message will go to the log file and console
+2023-11-23 01:46:07,852 - Model Logger - DEBUG - This message will go to the log file
+2023-11-23 01:46:07,853 - Model Logger - INFO - This message will go to the log file
+2023-11-23 01:46:07,854 - Model Logger - WARNING - This message will go to the log file and console
+2023-11-23 01:46:07,854 - Model Logger - ERROR - This message will go to the log file and console
+2023-11-23 01:46:07,856 - Model Logger - CRITICAL - This message will go to the log file and console
